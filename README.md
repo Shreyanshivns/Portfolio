@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 Welcome to my portfolio website! This README file provides an overview of the contents and structure of my site, 
 helping you navigate through the different sections and understand its purpose. 
 Feel free to explore and discover more about my skills, experiences, and projects.
